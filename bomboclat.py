@@ -170,4 +170,4 @@ async def nuke(ctx):
 
 # Run the bot
 # Note: Ensure you have 'aiohttp' installed: pip install aiohttp
-bot.run('MTQ4MDI0ODU0NjkyOTE0ODE2MQ.GpF2UA.xv-szSwGIQ7nKs9b2KxyKYmLhEvuak5RxefJKE')
+bot.run('MTQ4MDI0ODU0NjkyOTE0ODE2MQ.GLdE0M.wTwtMkAw4T9iWRU2plgZ4fwlOOvRo8No1NxQO4')
